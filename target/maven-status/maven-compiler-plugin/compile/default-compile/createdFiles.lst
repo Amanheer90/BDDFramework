@@ -1,0 +1,5 @@
+stepDefinitions\LoginStepDefinition.class
+stepDefinitions\stepWithMap.class
+Runner\TestRunner.class
+stepDefinitions\TaggingStepDefinition.class
+stepDefinitions\HooksStepDefinition.class
